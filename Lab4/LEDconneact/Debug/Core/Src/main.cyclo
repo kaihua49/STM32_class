@@ -1,0 +1,7 @@
+../Core/Src/main.c:64:13:ProcessReceivedByte	4
+../Core/Src/main.c:78:13:ExecuteCommand	5
+../Core/Src/main.c:95:5:main	3
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:200:13:MX_LPUART1_UART_Init	5
+../Core/Src/main.c:247:13:MX_GPIO_Init	1
+../Core/Src/main.c:283:6:Error_Handler	1
